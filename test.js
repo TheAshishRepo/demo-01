@@ -1,1 +1,1 @@
-# This is my fist js file
+# This is my first js file
